@@ -2,8 +2,8 @@
 
 This repository contains the code for a facial recognition system.
 This system was built with the aid of [Deepnote's](https://deepnote.com/) long-running
-notebooks ande [Anvil's](https://anvil.works/) Python and drag and drop based user
-interface. 
+notebooks and [Anvil's](https://anvil.works/) drag and drop user
+interface.
 
 The sample scenario was the admin panel of a
 visitor verification system at the entrance of the Umbrella 
