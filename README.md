@@ -1,6 +1,6 @@
 # Facial Recognition System
 
-This project contains the code for a facial recognition system.
+This repository contains the code for a facial recognition system.
 This system was built with the aid of [Deepnote's](https://deepnote.com/) long-running
 notebooks ande [Anvil's](https://anvil.works/) Python and drag and drop based user
 interface. 
