@@ -15,6 +15,9 @@ easily connect the methods in their notebooks to a live
 interface regardless without the use of a backend framework
 or a frontend technologies.
 
+The notebook implemented on Deepnote and the images used 
+can be found in the `Deepnote/` directory. 
+
 ### To be added:
 - Associated article
 - The live project link.
