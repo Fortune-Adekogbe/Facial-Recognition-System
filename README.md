@@ -15,8 +15,8 @@ easily connect the methods in their notebooks to a live
 interface regardless without the use of a backend framework
 or a frontend technologies.
 
-The notebook implemented on Deepnote and the images used were sourced from 
-the [Umbrella Aademy Wiki Page](https://umbrellaacademy.fandom.com/) and 
+The notebook implemented on Deepnote and the images sourced from 
+the [Umbrella Aademy Wiki Page](https://umbrellaacademy.fandom.com/) 
 can be found in the `Deepnote/` directory. You can also access
 on Deepnote via [this link](https://deepnote.com/workspace/ailab-0597e1a6-c883-4b32-918e-7f3895cb214f/project/Facial-Recognition-60f840d8-661a-44b2-9944-36676f0c567f/%2Fnotebook.ipynb).
 
